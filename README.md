@@ -1,2 +1,2 @@
-# sacode-e-commerse-projeck02-maikel
+# sacode-e-commerse-project02-maikel
 belajar mengenal css
